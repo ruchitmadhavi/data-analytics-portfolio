@@ -8,6 +8,8 @@ I am interested in using data to identify patterns, understand performance, and 
 
 This repository showcases my Data Analytics projects, the tools I use, and my progress as I build practical experience in the field.
 
+[My Resume](./Ruchit_Madhavi_Resume.pdf)
+
 ## Table of Contents
 
 * [About](#about)
@@ -80,3 +82,4 @@ Vadodara, Gujarat | 2022 - 2026
 * **LinkedIn:** [Ruchit Madhavi](https://www.linkedin.com/in/ruchit-madhavi-608948366/)
 * **GitHub:** [ruchitmadhavi](https://github.com/ruchitmadhavi)
 * **Email:** [ruchitmadhavi04@gmail.com](mailto:ruchitmadhavi04@gmail.com)
+* **Resume** [View my Resume](./Ruchit_Madhavi_Resume.pdf)
