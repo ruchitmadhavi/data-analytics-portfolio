@@ -12,10 +12,27 @@ This repository showcases my Data Analytics projects, the tools I use, and my pr
 
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
+* [Experience](#experience)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Technical Skills](#technical-skills)
 * [Contact](#contact)
+
+## Experience
+
+### Game Developer Intern — Symbiotix Labs
+
+**May 2026 – July 2026 | Remote**
+
+* Implemented gameplay logic for multiple vehicle sizes, pump assignment, queues, reservations, and traffic flow to prevent routing conflicts.
+* Collaborated with the development team using Git, debugging and refining systems based on project requirements and feedback.
+
+### 3D Artist Intern — Tinkering Hub, Parul University
+
+**December 2025 – May 2026 | Vadodara, Gujarat**
+
+* Created and optimized 3D models and assets using Blender for club projects and interactive applications.
+* Collaborated with team members to develop and refine assets according to project requirements.
 
 ## Portfolio Projects
 
