@@ -79,9 +79,10 @@ The Tableau dashboard presents the key KPIs and visualizations used to compare p
 
 ## Key Findings
 
-The analysis compares the two gate-placement groups across player engagement and retention metrics.
-
-Specific findings from the analysis will be documented here based on the final KPI and dashboard results.
+- Gate placement (level 30 vs. level 40) had no significant effect on Day-1 retention (p = 0.07) — players stick around the first day regardless of where the gate sits.
+- Day-7 retention was significantly lower for players who saw the gate at level 40 (p < 0.05) — the later gate hurts longer-term engagement.
+- Overall retention and average game rounds played were both slightly higher in the gate_30 group, reinforcing the Day-7 result.
+- Recommendation: Keep the gate at level 30. Moving it to level 40 doesn't help short-term retention and actively hurts the metric that matters more for long-term revenue.
 
 ## Conclusion
 
