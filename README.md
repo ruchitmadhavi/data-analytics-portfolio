@@ -57,6 +57,26 @@ Google Sheets, Tableau.
 **Files:**
 [View Project](./Data-Analysis-KPI-Dashboard)
 
+### Steam Games Analytics
+
+**Goal:** Analyze Steam game data to identify trends in game releases, genres, pricing, and player recommendations.
+
+**Description:** The project involved cleaning and preparing a dataset of 65,294 Steam games using Python and Pandas, performing exploratory analysis with SQL, transforming genre data, and building an interactive Tableau dashboard to visualize key trends and insights.
+
+**Skills:** Data cleaning, data transformation, exploratory data analysis, SQL analysis, data aggregation, data visualization, dashboard development.
+
+**Technology:** Python, Pandas, NumPy, SQLite, SQL, Tableau.
+
+**Key Analysis:**
+- Analyzed game releases from 2021–2025
+- Compared game distribution across genres
+- Analyzed game price distribution
+- Identified the most recommended games
+- Calculated average game price and total recommendations
+- Built interactive filters for genre, price, and release year
+
+**Files:** [View Project](./steam-Games-Analytics)
+
 ## Education
 
 **Parul University**
